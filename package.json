@@ -1,0 +1,20 @@
+{
+  "name": "bbdg998-sum",
+  "version": "1.0.0",
+  "description": "First Ban's project with easy sum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbdg998/bbdg998-sum"
+  },
+  "keywords": ["sum", "add", "zad", "key"],
+  "author": "Ban",
+  "license": "MIT",
+  "dependencies": {
+    "bbdg998-sum": "^1.0.0",
+    "zod": "3.0.0"
+  }
+}
